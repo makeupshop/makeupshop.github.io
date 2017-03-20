@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://makeupshop.github.io/sitemap.xml
